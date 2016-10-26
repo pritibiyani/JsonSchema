@@ -1,0 +1,16 @@
+{
+  "author": "J. K. Rolling",
+  "title": "Harry Potter and the Philosopher's Stone (",
+  "price": 200.12,
+  "characters": ["Harry",
+    "Ron",
+    "Hermione"
+  ],
+  "adultBook": false,
+  "publishedOn": "2016-06-26T00:00:00-04:00",
+  "category": ["Fantasy",
+    "drama",
+    "fiction",
+    "mystery"
+  ]
+}

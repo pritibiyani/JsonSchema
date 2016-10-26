@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "author": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "price": {
+      "type": "number",
+      "minimum": 0,
+      "exclusiveMinimum": true
+    },
+    "characters": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "adultBook": {
+      "type": "boolean"
+    },
+    "publishedOn": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "category": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "author",
+    "title",
+    "price"
+  ]
+}
