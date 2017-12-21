@@ -1,8 +1,5 @@
 language: java
 
-before_script:
-- chmod a+x gradlew
-
 script:
-- ./gradlew clean
-- ./gradlew test
+- gradle clean
+- gradle test
