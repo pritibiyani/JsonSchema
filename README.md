@@ -1,3 +1,6 @@
+[![Build Status](https://api.travis-ci.com/pritibiyani/JsonSchema.svg?branch=master
+)](https://travis-ci.com/pritibiyani/JsonSchema)
+
 JSON SCHEMA 
 
 Created to for the blog [JSON Schema - as a specification, contract and validation!](https://pritibiyani.github.io/blog/using-json-schema-as-specification-contract-and-validate-your-api). This demonstrates how schema can be used to validate your JSON document. 
