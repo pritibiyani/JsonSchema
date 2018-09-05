@@ -1,5 +1,4 @@
-[![Build Status](https://api.travis-ci.com/pritibiyani/JsonSchema.svg?branch=master
-)](https://travis-ci.com/pritibiyani/JsonSchema)
+[![Build Status](https://api.travis-ci.org/pritibiyani/JsonSchema.svg?branch=master)](https://travis-ci.org/pritibiyani/JsonSchema)
 
 JSON SCHEMA 
 
